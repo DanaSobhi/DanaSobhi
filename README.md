@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dana</h1>
 <h3 align="center">An artist and computer engineer</h3>
 
-- 🌱 I’m currently learning **Shell, Python**
+- 🌱 I’m currently learning **Python,HTML**
 
 - ⚡ Fun fact **I like typology and mbti theorems**
 
