@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python,HTML**
 
-- ⚡ Fun fact **I like typology and mbti theorems**
+- ⚡ Fun fact **I like typology and mbti theorems, im computer engineer and a mouse artist , and i want to learn more about programming**
 
 <p align="left">
 </p>
