@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dana</h1>
 <h3 align="center">An artist and computer engineer</h3>
 
-- 🌱 I’m currently learning **Python,HTML,Django**
+- 🌱 I know **Python,HTML,Django**
 
-- ⚡ Fun fact **I like typology and mbti theorems, im computer engineer and a mouse artist , and i want to learn more about programming**
+- ⚡ Fun fact **I'm a Computer Engineering graduate who built and deployed Beauty Hub — a full-stack booking platform using Python, Django, REST APIs, and OpenStreetMap integration**
 
 <p align="left">
 </p>
